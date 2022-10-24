@@ -1,0 +1,18 @@
+/* .dashboard {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+} */
+.dashboard-container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+}
+.image {
+  height: 88px;
+  width: 88px;
+  left: 532px;
+  top: 0px;
+  border-radius: 275px;
+}
