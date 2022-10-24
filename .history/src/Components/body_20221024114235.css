@@ -43,17 +43,12 @@ a {
 .text {
   color: #0000;
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 750px) {
   .box {
     /* background-color: red; */
     width: 343px;
     height: 68px;
   }
-  /* .icons {
-    display: none;
-  } */
-}
-@media only screen and (max-width: 950px) {
   .icons {
     display: none;
   }

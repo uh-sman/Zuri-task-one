@@ -7,7 +7,9 @@ const Dashboard = () => {
       <div className="dashboard-container">
         <img className="image" src={profile} />
         <div className="text-section">
-          <a href="https://twitter.com/UsmanUm58956112">@UsmanUm58956112</a>
+          <a href="https://www.figma.com/file/Yp5Wh9zMGGrOoO83L5dB0c/Designs-for-frontend-(Copy)?node-id=4627%3A385793">
+            https://www.figma.com/file/Yp5Wh9zMGGrOoO83L5dB0c/Designs-for-frontend-(Copy)?node-id=4627%3A385793
+          </a>
         </div>
       </div>
     </div>

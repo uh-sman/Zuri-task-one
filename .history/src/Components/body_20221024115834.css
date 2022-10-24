@@ -49,12 +49,12 @@ a {
     width: 343px;
     height: 68px;
   }
-  /* .icons {
-    display: none;
-  } */
-}
-@media only screen and (max-width: 950px) {
   .icons {
     display: none;
   }
 }
+/* @media only screen and (max-width: 750px) {
+  .icons {
+    display: none;
+  }
+} */
