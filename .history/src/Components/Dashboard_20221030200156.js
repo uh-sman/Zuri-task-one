@@ -7,7 +7,7 @@ const Dashboard = () => {
   return (
     <div className="dashboard">
       <img src={share} className="share" />
-      <img src={avatar} className="avatar" />
+      <img src={avatar} className="share" />
       <div className="dashboard-container">
         <img className="image" src={profile} />
         <div className="text-section">

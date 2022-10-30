@@ -48,8 +48,6 @@
   }
   .avatar {
     display: block;
-    top: 44px;
-    position: absolute;
-    right: 20px;
+    justify-content: flex-end;
   }
 }

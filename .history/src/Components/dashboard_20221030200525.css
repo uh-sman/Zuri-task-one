@@ -47,9 +47,7 @@
     display: none;
   }
   .avatar {
-    display: block;
-    top: 44px;
-    position: absolute;
-    right: 20px;
+    display: flex;
+    justify-content: right;
   }
 }

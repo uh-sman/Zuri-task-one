@@ -8,17 +8,17 @@
   margin-top: 64px;
   opacity: 0.2;
   font-weight: 700;
-  border-top: 3px solid #eaecf0;
   max-width: 1400px;
   /* margin: auto; */
 }
-.border {
-}
+/* .border {
+} */
 @media only screen and (max-width: 950px) {
   .footer {
     display: block;
-    line-height: 30px;
+
+    margin: 0px;
     gap: 16px;
-    margin-left: 16px;
+    margin-left: ;
   }
 }

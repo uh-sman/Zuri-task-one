@@ -7,7 +7,6 @@
   /* margin-top: 56px; */
   /* font-weight: 700; */
   margin-bottom: 24px;
-  border-radius: 8px;
   border: #eaecf0;
 
   /* margin-top: 56px; */
@@ -29,7 +28,6 @@ btn:hover {
   background-color: #eaecf0;
   width: 1152px;
   height: 76px;
-  border-radius: 8px;
 }
 a {
   color: black;
@@ -49,7 +47,6 @@ a {
   .box {
     /* background-color: red; */
     width: 343px;
-
     height: 68px;
   }
   /* .icons {

@@ -27,7 +27,7 @@ btn:hover {
   gap: 24px;
 
   background-color: #eaecf0;
-  width: 1152px;
+  /* width: 1152px; */
   height: 76px;
   border-radius: 8px;
 }
@@ -48,8 +48,7 @@ a {
 @media only screen and (max-width: 1200px) {
   .box {
     /* background-color: red; */
-    width: 343px;
-
+    /* width: 343px; */
     height: 68px;
   }
   /* .icons {

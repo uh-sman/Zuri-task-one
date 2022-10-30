@@ -1,13 +1,11 @@
 import React from "react";
 import profile from "./assets/profile.png";
 import share from "./assets/Avatar.png";
-import avatar from "./assets/Avatar-share.png";
 import "./dashboard.css";
 const Dashboard = () => {
   return (
     <div className="dashboard">
-      <img src={share} className="share" />
-      <img src={avatar} className="avatar" />
+      <img src={share} />
       <div className="dashboard-container">
         <img className="image" src={profile} />
         <div className="text-section">

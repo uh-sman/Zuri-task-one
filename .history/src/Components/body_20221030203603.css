@@ -27,7 +27,7 @@ btn:hover {
   gap: 24px;
 
   background-color: #eaecf0;
-  width: 1152px;
+  /* width: 1152px; */
   height: 76px;
   border-radius: 8px;
 }

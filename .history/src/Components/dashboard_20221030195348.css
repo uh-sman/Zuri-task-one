@@ -30,26 +30,10 @@
   color: black;
 }
 .share {
-  position: absolute;
-  width: 40px;
-  height: 40px;
-  right: 320px;
-  top: 44px;
-}
-.avatar {
-  display: none;
+  /* position: absolute; */
 }
 @media only screen and (max-width: 950px) {
   /* .icons {
     display: none;
   } */
-  .share {
-    display: none;
-  }
-  .avatar {
-    display: block;
-    top: 44px;
-    position: absolute;
-    right: 20px;
-  }
 }

@@ -33,23 +33,11 @@
   position: absolute;
   width: 40px;
   height: 40px;
-  right: 320px;
+  right: 189px;
   top: 44px;
-}
-.avatar {
-  display: none;
 }
 @media only screen and (max-width: 950px) {
   /* .icons {
     display: none;
   } */
-  .share {
-    display: none;
-  }
-  .avatar {
-    display: block;
-    top: 44px;
-    position: absolute;
-    right: 20px;
-  }
 }
